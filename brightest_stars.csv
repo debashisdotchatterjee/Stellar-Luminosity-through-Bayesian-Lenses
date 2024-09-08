@@ -1,0 +1,21 @@
+Traditional,Bayer,Luminosity (Sun=1),Distance (light-years),Spectral Type,Proper Motion RA (arcsec/y),Proper Motion Dec (arcsec/y),RA (h),RA (m),Dec (deg),Dec (min)
+Sirius,α Canis Majoris,22.5,8.6,A1 V,-0.5,-1.2,6,45.2,-16,43
+Canopus,α Carinae,13500.0,309.0,F0 II,0.02,0.02,6,24.0,-52,42
+Rigil Kentaurus,α Centauri,1.94,4.32,G2 V+K IV,-3.7,0.5,14,39.7,-60,50
+Arcturus,α Bootis,120.0,36.72,K1.5 III,-1.1,-2.0,14,15.7,19,11
+Vega,α Lyrae,49.0,25.04,A0 V,0.2,0.3,18,36.9,38,47
+Capella,α Aurigae,140.0,42.8,G8 III+G0 III,0.08,-0.4,5,16.7,46,0
+Rigel,β Orionis,50600.0,863.0,B8 I,0.0,0.0,5,14.5,-8,12
+Procyon,α Canis Minoris,7.31,11.46,F5 IV-V,-0.7,-1.0,7,39.3,5,14
+Achernar,α Eridani,1030.0,139.0,B3 V,0.1,-0.04,1,37.7,-57,14
+Betelgeuse,α Orionis,13200.0,498.0,M2 I,0.02,0.01,5,55.2,7,24
+Hadar,β Centauri,7050.0,392.0,B1 III,-0.03,-0.02,14,3.8,-60,22
+Altair,α Aquilae,11.2,16.73,A7 V,0.5,0.4,19,50.8,8,52
+Acrux,α Crucis,4090.0,322.0,B0.5 IV+B1V,-0.04,-0.01,12,26.6,-63,6
+Aldebaran,α Tauri,160.0,66.64,K5 III,0.1,-0.2,4,35.9,16,31
+Spica,α Virginis,2030.0,250.0,B1 III-IV+B2 V,-0.04,-0.03,13,25.2,-11,10
+Antares,α Scorpii,9290.0,554.0,M1.5 I+B2.5 V,-0.01,-0.02,16,29.4,-26,26
+Pollux,β Geminorum,31.6,33.78,K0 III,-0.6,-0.05,7,45.3,28,2
+Fomalhaut,α Piscis Austrini,17.2,25.13,A3 V,0.03,-0.2,22,57.6,-29,37
+Mimosa,β Crucis,1980.0,279.0,B0.5 III,-0.04,-0.02,12,47.7,-59,41
+Deneb,α Cygni,50600.0,1412.0,A2 I,0.0,0.0,20,41.4,45,17
